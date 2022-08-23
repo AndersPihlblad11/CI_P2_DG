@@ -6,6 +6,13 @@ body {
     width: 70%;
     margin: auto;
     text-align: center;
+    background-color: #fff;
+
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
 }
 
 h1 {
@@ -13,4 +20,11 @@ h1 {
     font-size: 3rem;
   }
 
-  
+  p {
+    font-size: 2rem;
+
+  }
+
+  .img {
+    width: 80%;
+  }
